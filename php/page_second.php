@@ -1,4 +1,8 @@
-<?php require_once('header.php');?>
+<?php 
+$title = 'Second Page';
+require_once('header.php');
+
+?>
 
 <p>Second Page Content</p>
 

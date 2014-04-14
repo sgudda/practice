@@ -1,4 +1,7 @@
-<?php require_once('header.php');?>
+<?php 
+$title = 'First Page';
+require_once('header.php');
+?>
 
 <p>Ist Page Content</p>
 
